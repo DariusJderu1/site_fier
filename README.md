@@ -3,7 +3,7 @@
 A responsive, static presentation website built for a local scrap metal collection and recycling business. It provides potential clients with information about services, accepted materials, pricing, and includes an interactive payout calculator.
 
 ## Live Demo
-[View the live website here](https://dariusjderu.github.io/site_fier/)
+[View the live website here](https://dariusjderu1.github.io/site_fier/)
 
 ## Key Features & Technical Details
 
